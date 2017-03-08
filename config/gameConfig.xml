@@ -6,4 +6,6 @@
 	<timeStep>0.25</timeStep>
 	<maxRadius>10</maxRadius>
 	<mapBoundFix>0.1</mapBoundFix>
+	<moveTimes>4</moveTimes>
+	<roundDelay>4</roundDelay>
 </config>
