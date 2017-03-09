@@ -7,5 +7,6 @@
 	<maxRadius>10</maxRadius>
 	<mapBoundFix>0.1</mapBoundFix>
 	<moveTimes>4</moveTimes>
-	<roundDelay>4</roundDelay>
+	<commandDelay>4</commandDelay>
+	<spawnStep>100</spawnStep>
 </config>
