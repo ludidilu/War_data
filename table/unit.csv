@@ -1,5 +1,5 @@
-ID,移动速度,半径,重量,队列中的位置
-int,double,double,int,double
-ID,moveSpeed,radius,weight,queuePos
-1,2,3,1,5
-2,2,5,1,3
+ID,移动速度,半径,重量,队列中的位置,攻击伤害,攻击距离,攻击间隔,血量,视野范围
+int,double,double,int,double,int,double,double,int,double
+ID,moveSpeed,radius,weight,queuePos,attackDamage,attackRange,attackStep,hp,visionRange
+1,2,3,1,5,10,3.3,1,100,20
+2,2,5,1,3,20,20,2,60,30

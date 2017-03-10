@@ -8,5 +8,5 @@
 	<mapBoundFix>0.1</mapBoundFix>
 	<moveTimes>4</moveTimes>
 	<commandDelay>4</commandDelay>
-	<spawnStep>100</spawnStep>
+	<spawnStep>40</spawnStep>
 </config>
