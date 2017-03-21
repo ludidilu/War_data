@@ -9,4 +9,6 @@
 	<moveTimes>4</moveTimes>
 	<commandDelay>4</commandDelay>
 	<spawnStep>40</spawnStep>
+	<defaultMoney>200</defaultMoney>
+	<moneyPerStep>5</moneyPerStep>
 </config>
