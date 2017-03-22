@@ -1,8 +1,8 @@
 <config>
-	<mapX>-100</mapX>
-	<mapY>-50</mapY>
 	<mapWidth>200</mapWidth>
 	<mapHeight>100</mapHeight>
+	<spawnX>70</spawnX>
+	<spawnY>0</spawnY>
 	<timeStep>0.25</timeStep>
 	<maxRadius>10</maxRadius>
 	<mapBoundFix>0.1</mapBoundFix>
