@@ -1,5 +1,5 @@
-ID,移动速度,半径,范围,类型,持续时间
-int,double,double,double,int,int
-ID,moveSpeed,radius,range,skillType,time
-1,0,10,50,1,0
-2,3,10,,2,20
+ID,类型(0附着在单位上 1控制单位 2独立),持续时间,移动速度,范围,障碍半径,技能目标类型(0地面单位 1空中单位 2全部),技能目标(0本方单位 1敌方单位 2全部单位),技能半径,技能效果(0伤害),技能数据数组
+int,int,int,double,double,double,int,int,double,int,int[]
+ID,skillType,time,moveSpeed,range,obstacleRadius,effectTargetType,effectTarget,effectRadius,effect,effectData
+1,1,20,2,,,0,1,6,0,10
+2,2,20,3,,8,0,1,10,0,10
