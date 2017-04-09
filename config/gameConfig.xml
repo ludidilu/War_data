@@ -3,6 +3,9 @@
 	<mapHeight>100</mapHeight>
 	<spawnX>70</spawnX>
 	<spawnY>0</spawnY>
+	<baseX>85</baseX>
+	<baseY>0</baseY>
+	<baseID>0</baseID>
 	<timeStep>0.25</timeStep>
 	<maxRadius>10</maxRadius>
 	<mapBoundFix>0.1</mapBoundFix>
